@@ -31,7 +31,7 @@
   " Display line numbers on the left
   set number
 
-  " Set indendation
+  " Set indentation
   set autoindent
   set shiftwidth=2
   set softtabstop=2
