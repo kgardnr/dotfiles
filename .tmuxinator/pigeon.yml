@@ -31,7 +31,7 @@ windows:
   - dev:
       layout: 1168,181x45,0,0{110x45,0,0,3,70x45,111,0,5}
       panes:
-        - #empty
+        - clear
         - #empty
   - server: bundle exec rails s
   - logs: tail -f log/development.log
