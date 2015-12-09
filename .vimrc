@@ -13,12 +13,12 @@
   Bundle "vim-ruby/vim-ruby"
   Bundle "scrooloose/nerdtree"
   Bundle "tpope/vim-fugitive"
-  Bundle 'duythinht/vim-coffee'  
-  Bundle 'tpope/vim-cucumber'
-  Bundle 'skalnik/vim-vroom'
-  Bundle 'tpope/vim-haml'
-  Bundle 'tpope/vim-endwise'
-  Bundle 'ervandew/supertab'
+  Bundle "kchmck/vim-coffee-script"
+  Bundle "tpope/vim-cucumber"
+  Bundle "skalnik/vim-vroom"
+  Bundle "tpope/vim-haml"
+  Bundle "tpope/vim-endwise"
+  Bundle "ervandew/supertab"
 
   filetype plugin indent on
 
